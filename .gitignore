@@ -1,0 +1,4 @@
+sim.out
+*.vcd
+*.o
+__pycache__/
